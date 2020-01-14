@@ -1,0 +1,7 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CodeTesting\CodeTesting\obj\Debug\CodeTesting.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CodeTesting\CodeTesting\obj\Debug\CodeTesting.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CodeTesting\CodeTesting\bin\Debug\CodeTesting.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CodeTesting\CodeTesting\bin\Debug\CodeTesting.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CodeTesting\CodeTesting\bin\Debug\CodeTesting.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CodeTesting\CodeTesting\obj\Debug\CodeTesting.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CodeTesting\CodeTesting\obj\Debug\CodeTesting.pdb
